@@ -76,7 +76,7 @@
 
 <br>
  
-## Github Status 🏆
+## GitHub Status 🏆
 
 <img src="https://github-readme-stats.vercel.app/api?username=jonoman55&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonoman55&theme=react" width="48%" />
