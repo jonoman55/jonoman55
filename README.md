@@ -10,6 +10,7 @@
 ## My Top Languages 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonoman55&theme=react)](https://github.com/jonoman55/github-readme-stats)
+<br />
 
 ## Other Technologies 🛡
 
