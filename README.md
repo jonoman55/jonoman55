@@ -97,7 +97,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonoman55&theme=react" width="48%" />
 <br />
 
-[![jonoman55's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonoman55&theme=react-dark)](https://github.com/jonoman55/github-readme-activity-graph)
+[![jonoman55's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jonoman55&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br />
 
 <p align="center">Wanna Know me More?</p>
