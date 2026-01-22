@@ -93,8 +93,9 @@
  
 ## GitHub Status 🏆
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonoman55&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonoman55&theme=react" width="48%" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonoman55&theme=react" width="48%" align="left" /> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jonoman55&theme=meta-light&hide_border=true&mode=weekly&background=20232A&dates=FFFFFF&ring=57BCDA&fire=57BCDA&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&excludeDaysLabel=FFFFFF&stroke=FFFFFF" alt="GitHub Streak" width="48%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=jonoman55&count_private=true&show_icons=true&hide_border=true&theme=react" alt="GitHub Stats" width="48%" align="right" />
 <br />
 
 [![jonoman55's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonoman55&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
